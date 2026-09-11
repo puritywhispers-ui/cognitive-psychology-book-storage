@@ -3,6 +3,22 @@
   "updated": "2026-09-11",
   "works": [
     {
+      "id": "goldstein-hale-6e",
+      "type": "book",
+      "title": "Cognitive Psychology: Connecting Mind, Research, and Everyday Experience",
+      "authors": ["E. Bruce Goldstein", "Ralph G. Hale"],
+      "year": 2026,
+      "edition": "6",
+      "publisher": "Cengage",
+      "isbn13_print": "9798214143385",
+      "isbn13_etext": "9798214582382",
+      "isbn13_mindtap": "9798214143422",
+      "role": "core-textbook",
+      "topics": ["survey", "perception", "attention", "memory", "language", "reasoning-and-decision"],
+      "official_url": "https://www.cengage.com/c/cognitive-psychology-connecting-mind-research-and-everyday-experience-6e-goldstein/9798214143385/",
+      "note": "notes/goldstein-hale-cognitive-psychology-6e.md"
+    },
+    {
       "id": "neisser-1967",
       "type": "book",
       "title": "Cognitive Psychology",
@@ -16,14 +32,6 @@
       "type": "book",
       "title": "Cognitive Psychology: A Student's Handbook",
       "authors": ["Michael W. Eysenck", "Mark T. Keane"],
-      "role": "core-textbook",
-      "topics": ["survey"]
-    },
-    {
-      "id": "goldstein-cogpsych",
-      "type": "book",
-      "title": "Cognitive Psychology: Connecting Mind, Research, and Everyday Experience",
-      "authors": ["E. Bruce Goldstein"],
       "role": "core-textbook",
       "topics": ["survey"]
     },
