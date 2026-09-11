@@ -1,0 +1,84 @@
+{
+  "schema": "cogpsych-library/v1",
+  "updated": "2026-09-11",
+  "works": [
+    {
+      "id": "neisser-1967",
+      "type": "book",
+      "title": "Cognitive Psychology",
+      "authors": ["Ulric Neisser"],
+      "year": 1967,
+      "role": "foundational-textbook",
+      "topics": ["history", "perception", "memory", "attention"]
+    },
+    {
+      "id": "eysenck-keane",
+      "type": "book",
+      "title": "Cognitive Psychology: A Student's Handbook",
+      "authors": ["Michael W. Eysenck", "Mark T. Keane"],
+      "role": "core-textbook",
+      "topics": ["survey"]
+    },
+    {
+      "id": "goldstein-cogpsych",
+      "type": "book",
+      "title": "Cognitive Psychology: Connecting Mind, Research, and Everyday Experience",
+      "authors": ["E. Bruce Goldstein"],
+      "role": "core-textbook",
+      "topics": ["survey"]
+    },
+    {
+      "id": "anderson-implications",
+      "type": "book",
+      "title": "Cognitive Psychology and Its Implications",
+      "authors": ["John R. Anderson"],
+      "role": "core-textbook",
+      "topics": ["memory", "learning", "architecture"]
+    },
+    {
+      "id": "marr-1982",
+      "type": "book",
+      "title": "Vision",
+      "authors": ["David Marr"],
+      "year": 1982,
+      "role": "classic",
+      "topics": ["perception", "computation"]
+    },
+    {
+      "id": "kahneman-2011",
+      "type": "book",
+      "title": "Thinking, Fast and Slow",
+      "authors": ["Daniel Kahneman"],
+      "year": 2011,
+      "role": "crossover",
+      "topics": ["reasoning-and-decision", "judgment"]
+    },
+    {
+      "id": "miller-1956",
+      "type": "paper",
+      "title": "The magical number seven, plus or minus two",
+      "authors": ["George A. Miller"],
+      "year": 1956,
+      "role": "classic-paper",
+      "topics": ["memory", "attention", "capacity"]
+    },
+    {
+      "id": "baddeley-hitch-1974",
+      "type": "paper",
+      "title": "Working memory",
+      "authors": ["Alan D. Baddeley", "Graham Hitch"],
+      "year": 1974,
+      "role": "classic-paper",
+      "topics": ["memory"]
+    },
+    {
+      "id": "tversky-kahneman-1974",
+      "type": "paper",
+      "title": "Judgment under uncertainty: Heuristics and biases",
+      "authors": ["Amos Tversky", "Daniel Kahneman"],
+      "year": 1974,
+      "role": "classic-paper",
+      "topics": ["reasoning-and-decision"]
+    }
+  ]
+}

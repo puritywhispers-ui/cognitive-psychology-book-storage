@@ -1,0 +1,15 @@
+# Local / personal
+.DS_Store
+*.pdf
+*.epub
+*.mobi
+*.djvu
+*.azw*
+*.zip
+.env
+.obsidian/
+.idea/
+.vscode/
+
+# Keep templates and markdown only in git
+notes/_private/
